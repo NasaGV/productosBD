@@ -27,6 +27,21 @@ public class frmProductos {
         comboBoxOrigen.addItem("China");
         comboBoxOrigen.addItem("Japon");
         comboBoxOrigen.addItem("Corea");
+        comboBoxOrigen.addItem("Estados Unidos");
+        comboBoxOrigen.addItem("Corea del Sur");
+        comboBoxOrigen.addItem("Vietnam");
+        comboBoxOrigen.addItem("Colombia");
+        comboBoxOrigen.addItem("Italia");
+        comboBoxOrigen.addItem("Suiza");
+        comboBoxOrigen.addItem("México");
+        comboBoxOrigen.addItem("España");
+        comboBoxOrigen.addItem("Argentina");
+        comboBoxOrigen.addItem("Noruega");
+        comboBoxOrigen.addItem("Suecia");
+        comboBoxOrigen.addItem("Francia");
+        comboBoxOrigen.addItem("Irlanda");
+        comboBoxOrigen.addItem("Alemania");
+        comboBoxOrigen.addItem("Escocia");
 
 
         buttonLimpiar.addActionListener(new ActionListener() {
